@@ -1,4 +1,4 @@
-package homework2;
+package dream.team.homework2;
 
 public class Main {
     public static void main(String[] args) {

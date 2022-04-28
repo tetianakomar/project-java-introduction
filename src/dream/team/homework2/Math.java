@@ -1,9 +1,15 @@
 package dream.team.homework2;
 
+import java.util.Scanner;
+
 public class Math {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 20;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Input a: ");
+        int a = scanner.nextInt();
+        System.out.println("Input b: ");
+        int b = scanner.nextInt();
+
 //        int c = a;
 //        a = b;
 //        b = c;

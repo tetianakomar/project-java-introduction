@@ -1,4 +1,4 @@
-package dream.team.homework2;
+package homework;
 
 import java.util.Scanner;
 

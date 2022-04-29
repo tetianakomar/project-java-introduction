@@ -1,4 +1,4 @@
-package classwork;
+package classwork.lesson2;
 
 public class Variables {
 

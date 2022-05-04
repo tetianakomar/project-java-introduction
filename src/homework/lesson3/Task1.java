@@ -13,7 +13,7 @@ public class Task1 {
         System.out.println("c: ");
         int c = in.nextInt();
 
-        double result = java.lang.Math.abs(a - b) / java.lang.Math.pow((a + b), 3) - java.lang.Math.sqrt(c);
+        double result = Math.abs(a - b) / Math.pow((a + b), 3) - Math.sqrt(c);
         System.out.println(result);
 
     }

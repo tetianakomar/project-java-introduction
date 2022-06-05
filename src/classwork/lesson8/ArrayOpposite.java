@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import static classwork.lesson8.Arrays.printArray;
+import static classwork.lesson8.ArraysLesson8.printArray;
 
 public class ArrayOpposite {
 

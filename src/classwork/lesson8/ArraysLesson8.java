@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Arrays {
+public class ArraysLesson8 {
 
     static final BufferedReader READER = new BufferedReader(new InputStreamReader(System.in));
 
